@@ -6,7 +6,7 @@ from telebot.credentials import bot_token, bot_user_name,URL
 
 global bot
 global TOKEN
-TOKEN = '5069367671:AAG_g_uzBLjg3DtTDDhHY2EZqxAhKeo48vk'
+TOKEN = '5225796864:AAHhZvAnrqJlUajjS4J3vIDl7Dvf3Ylffvk'
 bot = telegram.Bot(token=TOKEN)
 
 app = Flask(__name__)
